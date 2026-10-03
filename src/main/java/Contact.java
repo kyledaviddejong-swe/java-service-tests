@@ -1,7 +1,6 @@
 /*
  * Author: Kyle DeJong
  * Date: May 24th, 2026
- * Assignment: SNHU CS-320, Module 3
  */
 
 public class Contact {

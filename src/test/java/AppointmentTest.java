@@ -1,7 +1,6 @@
 /*
  * Author: Kyle DeJong
  * Date: June 7, 2026
- * Assignment: SNHU CS-320, Module 5
  */
 
 import static org.junit.jupiter.api.Assertions.*;
